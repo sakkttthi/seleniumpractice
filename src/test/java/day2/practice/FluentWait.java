@@ -1,4 +1,4 @@
-package day2.practice;
+	package day2.practice;
 
 import java.time.Duration;
 
