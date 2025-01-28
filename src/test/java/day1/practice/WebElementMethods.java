@@ -37,5 +37,4 @@ public class WebElementMethods {
 		driver.quit();
 
 	}
-
 }
